@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub Page! 👋
+# Welcome to Steponas's GitHub Page! 👋
 
-I am [Your Name], a **data analyst** with a strong passion for data-driven insights and storytelling. I graduated from **Vilnius Coding School Academy** and specialize in:
+I am Steponas, a **data analyst** with a strong passion for data-driven insights and storytelling. I graduated from **Vilnius Coding School Academy** and specialize in:
 
 - **Databases**: MySQL, SQLite
 - **Data Visualization**: Power BI, Python (Matplotlib, Seaborn)
